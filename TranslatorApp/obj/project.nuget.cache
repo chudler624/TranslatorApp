@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pKzuAKMsTnuL5f249XGhV4urJspKHCGBqMMoMriF/WNpAvTHW4vcM68is47io/d9aGQx3wAXMjiGFAPD4337GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chudl\\Desktop\\Final Project\\TranslatorApp\\TranslatorApp\\TranslatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chudl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
